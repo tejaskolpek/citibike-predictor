@@ -118,6 +118,8 @@ citibike-predictor/
 ## 🌐 Demo
 
 [Streamlit Dashboard](https://citibike-lnsvtvkcl6kxmcngbmfezp.streamlit.app/)
+[Streamlit comparison](https://citibike-predictor-nnbemp6k5qehmyb6mwobeb.streamlit.app/)
+
 [GitHub Repo](https://github.com/tejasklolpek/citibike-predictor)
 
 ---
